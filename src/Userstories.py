@@ -19,6 +19,8 @@ så att utseendet blir som jag vill ha det
 
 [A1.1] Det går att skapa widget för timer
 [A1.2] Det går att skapa widget för anteckningar
+[A1.3] Det går att ta bort timern
+[A1.4] Det går att ta bort anteckningar
 [A2.1] Det går att byta plats på 2 widgets
 [A3.1] Det går att ändra tid i timer widget
 [A4.1] Det går att starta timern
@@ -31,6 +33,10 @@ så att utseendet blir som jag vill ha det
        Kontrollera att knappen 'Start' är synlig
 [T1.2] Klicka på 'Add note'
        Kontrollera att textfältet är synligt
+[T1.3] Klicka på skräpkorgen för timer widget
+       Kontrollera att timer widget försvinner
+[T1.3] Klicka på skräpkorgen för text widget
+       Kontrollera att text widget försvinner
 [T2.1] Klicka på 'Add timer'.
        Klicka på 'Add note'
        Klicka på 'icon up' i text widget
